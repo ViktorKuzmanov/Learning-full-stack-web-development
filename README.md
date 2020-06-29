@@ -36,19 +36,20 @@ Create new to-do list at /nameOfList
 
 Upon building this simple todolist app I learned about how to:
 
-    - implement Embedded JavaScript (EJS) templates templates to reduce repetitiveness in my code
+- implement Embedded JavaScript (EJS) templates templates to reduce repetitiveness in my code
         - pass variables(data) from my express server to my .ejs template file 
         - place markers (placeholder for variable) in my template
         - populating the template with dynamic content by writing JavaScript with the use of EJS tags like the Scriptlet Tag <%
         
-    - create EJS layout (header.ejs and footer.ejs)
+- create EJS layout (header.ejs and footer.ejs)
     
-    - create my own module like Express.js (date.js)
+- create my own module like Express.js (date.js)
     
-    - make separate todolist available at /work (check this twice, Not sure if i have anymore)
+- make separate todolist available at /work (check this twice, Not sure if i have anymore)
     
-    - save and delete items from todolist using MongoDB database
-    - create (listen on the server for) dynamic route based on route parameters in the URL when the user making a get request
+- save and delete items from todolist using MongoDB database
+
+- create (listen on the server for) dynamic route based on route parameters in the URL when the user making a get request
     
-    - deploy my app at http://blooming-dusk-50906.herokuapp.com/ using MongoDB Atlas and Heroku
+- deploy my app at http://blooming-dusk-50906.herokuapp.com/ using MongoDB Atlas and Heroku
 
