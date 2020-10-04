@@ -5,7 +5,7 @@ Though learning full stack web development from online course I developed 3 simp
 ## Weather Project
 
 ### Usage
-Search town by typing it in the text box (ex: London) and get current temperature in that town.
+Search town by typing it in the text box (ex: London) and get current temperature in that town
 
 Upon building this weather app I learned how to:
 
